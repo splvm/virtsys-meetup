@@ -1,4 +1,4 @@
-baseURL = "http://something-fresh.org/"
+baseURL = "https://splvm.github.io/virtsys-meetup/"
 languageCode = "en-us"
 title = "Virtsys Meetup"
 theme ="hugo-fresh"
