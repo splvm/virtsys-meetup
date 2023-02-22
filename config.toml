@@ -1,0 +1,45 @@
+baseURL = "http://something-fresh.org/"
+languageCode = "en-us"
+title = "Virtsys Meetup"
+theme ="hugo-fresh"
+googleAnalytics = "UA-83991908-1"
+disableHugoGeneratorInject = true
+
+[markup]
+  [markup.highlight]
+    style = "tomorrow-night"
+
+
+[params]
+
+
+[params.font]
+  name = "Nunito Sans"
+  sizes = [
+    400.0,
+    800.0
+  ]
+
+  [params.hero]
+  title = "Virtualized System Meetup"
+  subtitle = "A virtual meetup for people interested in containers and Kubernetes"
+  image = "kubernetes-icon.svg"
+  buttontext = "Schedule"
+  buttonLink = "/schedule"
+  
+
+  [params.navbarlogo]
+    link = "/"
+    image = "logo.png"
+    # make the size square
+    width = 50
+    height = 50
+  
+
+  [[params.navbar]]
+  title = "About"
+  url = "/about"
+
+  [[params.navbar]]
+  title = "Schedule"
+  url = "/schedule"
