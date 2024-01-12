@@ -1,5 +1,5 @@
 # virtsys-meetup
-Virtualized Systems Meetup 2023
+Virtualized Systems Meetup 2024
 
 ## Annoucement 
 
