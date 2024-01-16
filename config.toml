@@ -36,7 +36,11 @@ disableHugoGeneratorInject = true
   subtitle = "A virtual meetup for people interested in containers and Kubernetes"
   buttontext = "Schedule"
   buttonLink = "/virtsys-meetup/schedule"
-  image = "illustrations/worker.svg"
+  image = "3.png"
+
+  # [[params.navbarLogo]]
+  # image = "plug-cloud.svg"
+  # link = "/virtsys-meetup"
 
   [[params.navbar]]
   title = "About"
@@ -45,3 +49,7 @@ disableHugoGeneratorInject = true
   [[params.navbar]]
   title = "Schedule"
   url = "/virtsys-meetup/schedule"
+
+  [params.navbarLogo]
+  image = "3.svg"
+  link = "https://github.com/splvm"
