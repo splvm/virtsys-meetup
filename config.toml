@@ -26,7 +26,7 @@ disableHugoGeneratorInject = true
   
   [[params.section2.features]]
     title = "Jan 15, 2024"
-    text = "Thanks for visiting SPLVM **Virtualized System Meetup**. We will follow UCSD CSE291 on Virtualization. Please check our schedule join us if you are interested. The meetup will be held every Monday at 5:00pm PST. The first meetup will be on January 22, 2021. Please contact us if you want to present a paper or give a guest talk. "
+    text = "Thanks for visiting SPLVM **Virtualized System Meetup**. We will follow [UCSD CSE291](https://cseweb.ucsd.edu/~yiying/cse291j-winter20/). Please check our schedule join us if you are interested. The meetup will be held every Monday at 5:00pm PST. The first meetup will be on January 22, 2021. Please contact us if you want to present a paper or give a guest talk. "
     
   # [[params.section2.features]]
   #   title = "something"
