@@ -2,6 +2,8 @@
 
 Virtualized Systems Meetup 2024
 
+For details, please see our [website](https://splvm.github.io/virtsys-meetup/).
+
 ## Clone
 
 ```shell
