@@ -1707,12 +1707,17 @@ a.box:active {
       max-width: 1152px;
       width: 1152px; } }
 .content li + li {
-  margin-top: 0.25em; }
+  margin-top: 0.25em;
+  font-size: 1.25rem; }
 
-.content p:not(:last-child),
-.content dl:not(:last-child),
-.content ol:not(:last-child),
-.content ul:not(:last-child),
+.content p {
+  font-size: 1.25rem; }
+
+.content dl,
+.content ol,
+.content ul {
+  font-size: 1.25rem; }
+
 .content blockquote:not(:last-child),
 .content pre:not(:last-child),
 .content table:not(:last-child) {
@@ -6371,11 +6376,11 @@ img.pushed-image {
     display: block; }
   .media.icon-box .media-content .content p .icon-box-title {
     color: #444F60;
-    font-size: 1.2rem;
+    font-size: 2rem;
     font-weight: 600; }
   .media.icon-box .media-content .content p .icon-box-text {
-    color: #A9ABAC;
-    font-size: 1rem;
+    color: #444F60;
+    font-size: 1.5rem;
     font-weight: 400; }
 
 /* ==========================================================================

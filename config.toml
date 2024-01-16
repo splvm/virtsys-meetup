@@ -1,4 +1,3 @@
-baseURL = "https://splvm.github.io/virtsys-meetup/"
 languageCode = "en-us"
 title = "Virtsys Meetup"
 theme ="hugo-fresh"
@@ -20,21 +19,23 @@ disableHugoGeneratorInject = true
     800.0
   ]
 
+  [params.section2]
+  title = "Annoucements"
+  
+  [[params.section2.features]]
+    title = "Jan 15, 2024"
+    text = "Thanks for visiting SPLVM **Virtualized System Meetup**. We will follow UCSD CSE291 on Virtualization. Please check our schedule join us if you are interested. The meetup will be held every Monday at 5:00pm PST. The first meetup will be on January 22, 2021. Please contact us if you want to present a paper or give a guest talk. "
+    
+  # [[params.section2.features]]
+  #   title = "something"
+  #   text = "Thanks for visiting SPLVM 'Vitual System Meetup'. We will follow UCSD CSE291 on Virtualization. Please check our schedule below and join us if you are interested. The meetup will be held every Monday at 5:00pm PST. The first meetup will be on January 22, 2021. Please contact us if you want to present a paper or give a guest talk. "
+  
   [params.hero]
   title = "Virtualized System Meetup"
   subtitle = "A virtual meetup for people interested in containers and Kubernetes"
-  image = "kubernetes-icon.svg"
   buttontext = "Schedule"
   buttonLink = "/schedule"
-  
-
-  [params.navbarlogo]
-    link = "/"
-    image = "logo.png"
-    # make the size square
-    width = 50
-    height = 50
-  
+  image = "illustrations/worker.svg"
 
   [[params.navbar]]
   title = "About"
