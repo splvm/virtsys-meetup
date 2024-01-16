@@ -5,6 +5,7 @@ theme ="hugo-fresh"
 googleAnalytics = "UA-83991908-1"
 disableHugoGeneratorInject = true
 
+
 [markup]
   [markup.highlight]
     style = "tomorrow-night"
