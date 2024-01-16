@@ -18,6 +18,6 @@ Join Slack: TBD
 ## Misc 📝
 
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
-- If you wish to join 微信 (WeChat), please scan ![WeChat QR Code](/images/WeChat-01-21.jpg)
+- If you wish to join 微信 (WeChat), please scan ![WeChat QR Code](/virtsys-meetup/images/WeChat-01-21.jpg)
 
 ## Sponsors

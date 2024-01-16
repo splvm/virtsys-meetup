@@ -1,3 +1,4 @@
+baseURL = "https://splvm.github.io/virtsys-meetup/"
 languageCode = "en-us"
 title = "Virtsys Meetup"
 theme ="hugo-fresh"
@@ -34,13 +35,13 @@ disableHugoGeneratorInject = true
   title = "Virtualized System Meetup"
   subtitle = "A virtual meetup for people interested in containers and Kubernetes"
   buttontext = "Schedule"
-  buttonLink = "/schedule"
+  buttonLink = "/virtsys-meetup/schedule"
   image = "illustrations/worker.svg"
 
   [[params.navbar]]
   title = "About"
-  url = "/about"
+  url = "/virtsys-meetup/about"
 
   [[params.navbar]]
   title = "Schedule"
-  url = "/schedule"
+  url = "/virtsys-meetup/schedule"
