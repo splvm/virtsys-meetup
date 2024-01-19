@@ -22,6 +22,6 @@ Join Zoom Meeting: TBD
 
 ## Sponsors
 
-> The organizers spent a lot of time and effort to make this meetup possible. If you would like to sponsor this meetup, please contact Mossaka at duibao55328 at gmail dot com.
+> The organizers spent a lot of time and effort to make this meetup possible. If you would like to sponsor this meetup, please contact us at splvm2021 at gmail dot com.
 
 We would like to thank the following sponsors for their support:
