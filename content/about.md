@@ -6,7 +6,7 @@ title: "About"
 
 ## Zoom
 
-Join Zoom Meeting: TBD
+Join Zoom Meeting: [Zoom](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLqs3V7TyUaHON6apmKoI.1)
 
 ## Slack
 
