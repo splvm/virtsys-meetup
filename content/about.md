@@ -18,7 +18,7 @@ Join Zoom Meeting: [Zoom](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLq
 
 ## Misc 📝
 
-- If you wish to join 微信 (WeChat), please scan ![WeChat QR Code](/virtsys-meetup/images/WeChat-01-24.jpg)
+- If you wish to join 微信 (WeChat), please scan ![WeChat QR Code](/virtsys-meetup/images/WeChat-02-01.jpg)
 
 ## Sponsors
 
