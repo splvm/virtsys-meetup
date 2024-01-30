@@ -2,19 +2,17 @@
 title: "About"
 ---
 
-> Virtualized System Meetup is a community of people interested in Kubernetes, containers, and related technologies. We meet weekly on Zoom to discuss the latest developments in the field, share ideas, and learn from each other.
+> Virtualized System Meetup is a community of people interested in Kubernetes, containers, and related technologies. We meet weekly on [Zoom](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLqs3V7TyUaHON6apmKoI.1) to discuss the latest developments in the field, share ideas, and learn from each other.
 
-## Zoom
+## Links
 
-Join Zoom Meeting: [Zoom](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLqs3V7TyUaHON6apmKoI.1)
-
-## Slack
+Join [Zoom Meeting](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLqs3V7TyUaHON6apmKoI.1)
 
 [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg)
 
-## Important Links
+[UCSD CSE291 Virtualization](https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/)
 
-- UCSD CSE291: [Virtualization](https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/)
+[YouTube Recordings](https://www.youtube.com/playlist?list=PLUpsD1kYgnngejVkpf446FoNwwgivokkK)
 
 ## Misc 📝
 
@@ -22,6 +20,8 @@ Join Zoom Meeting: [Zoom](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLq
 
 ## Sponsors
 
-> The organizers spent a lot of time and effort to make this meetup possible. If you would like to sponsor this meetup, please contact us at splvm2021 at gmail dot com.
+The organizers invested a lot of time and effort to make this meetup possible, including covering the cost of Zoom meetings ($160 / year). 
 
-We would like to thank the following sponsors for their support:
+If you'd like to support, consider buying us a Coffee ☕️! Please reach out to us at splvm2021@gmail.com.
+
+
