@@ -16,12 +16,17 @@ Join [Zoom Meeting](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLqs3V7Ty
 
 ## Misc 📝
 
-- If you wish to join 微信 (WeChat), please scan ![WeChat QR Code](/virtsys-meetup/images/WeChat-02-01.jpg)
+If you wish to join 微信 (WeChat), please scan:
+
+
+![WeChat QR Code](/virtsys-meetup/images/WeChat-02-01.jpg)
 
 ## Sponsors
 
 The organizers invested a lot of time and effort to make this meetup possible, including covering the cost of Zoom meetings ($160 / year). 
 
-If you'd like to support, consider buying us a Coffee ☕️! Please reach out to us at splvm2021@gmail.com.
+If you'd like to support, consider buying us a Coffee ☕️! 
+
+Please reach out to us at splvm2021@gmail.com.
 
 
