@@ -1842,6 +1842,9 @@ a.box:active {
 .content.is-large {
   font-size: 1.5rem; }
 
+.content img {
+  width: 300px; }
+
 .input,
 .textarea {
   background-color: white;

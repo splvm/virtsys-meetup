@@ -6,13 +6,13 @@ title: "About"
 
 ## Links
 
-Join [Zoom Meeting](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLqs3V7TyUaHON6apmKoI.1)
+- [Join Zoom Meeting](https://us06web.zoom.us/j/87491153577?pwd=wwALFzPt4YLqs3V7TyUaHON6apmKoI.1)
 
-[Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg)
+- [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg)
 
-[UCSD CSE291 Virtualization](https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/)
+- [UCSD CSE291 Virtualization](https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/)
 
-[YouTube Recordings](https://www.youtube.com/playlist?list=PLUpsD1kYgnngejVkpf446FoNwwgivokkK)
+- [YouTube Recordings](https://www.youtube.com/playlist?list=PLUpsD1kYgnngejVkpf446FoNwwgivokkK)
 
 ## Misc 📝
 
