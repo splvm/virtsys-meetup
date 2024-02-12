@@ -25,6 +25,10 @@ disableHugoGeneratorInject = true
   title = "Annoucements"
   
   [[params.section2.features]]
+    title = "Feb 12, 2024"
+    text = "We are thrilled to annouce our first guest speaker: [Brendan Burns](https://www.linkedin.com/in/brendan-burns-487aa590/), co-founder of Kubernetes and Corp Vice President of Microsoft, responsible for Azure management, Azure portal, Kubernetes for Azure, Azure OSS Cloud Native."
+
+  [[params.section2.features]]
     title = "Feb 5, 2024"
     text = "There is NO guest meetup today. Have a happy week, everyone"
   
