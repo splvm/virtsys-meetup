@@ -24,6 +24,10 @@ disableHugoGeneratorInject = true
   [params.section2]
   title = "Annoucements"
   [[params.section2.features]]
+    title = "Feb 26, 2024"
+    text = "There is NO meeting today. We have postponed our meetup to the next week. Please check our schedule for the next meeting!"
+
+  [[params.section2.features]]
     title = "Feb 16, 2024"
     text = "We're honored to welcome [Ed (Dongxu) Huang](https://www.linkedin.com/in/eddxhuang/), Co-founder and CTO of PingCap, and co-author of the open-source HTAP database TiDB and the CNCF graduated project TiKV, as our next guest speaker. A specialist in distributed systems, Ed is a staunch believer in the power of technology and open-source culture."
 
