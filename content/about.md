@@ -19,7 +19,7 @@ title: "About"
 If you wish to join 微信 (WeChat), please scan:
 
 
-![WeChat QR Code](/virtsys-meetup/images/WeChat-03-12.jpg)
+![WeChat QR Code](/virtsys-meetup/images/WeChat-03-22.jpg)
 
 ## Sponsors
 
