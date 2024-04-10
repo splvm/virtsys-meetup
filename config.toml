@@ -24,6 +24,10 @@ disableHugoGeneratorInject = true
   [params.section2]
   title = "Annoucements"
   [[params.section2.features]]
+    title = "Apr 9, 2024"
+    text = "The schedule has been updated. Please check the schedule page for the latest information. We are looking forward to seeing you at the next meeting! 💙"
+
+  [[params.section2.features]]
     title = "Apr 1, 2024"
     text = "There is NO meeting today. We have postponed our meetup to the next week. Please check our schedule for the next meeting!"
 
