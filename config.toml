@@ -24,6 +24,10 @@ disableHugoGeneratorInject = true
   [params.section2]
   title = "Annoucements"
   [[params.section2.features]]
+    title = "Apr 22, 2024"
+    text = "Come and join us at 4:00 pm PDT today! We have a special guest speaker, [Brendan Burns](https://www.linkedin.com/in/brendan-burns-487aa590/), co-founder of Kubernetes and Corp Vice President of Microsoft, to share his insights on Kubernetes! Please fill out this [pre-meetup doc](https://docs.google.com/document/d/13wef_yrT_iG_NKytdBCMUZ65YqRTnzHItwQ6zhHcFg4) for questions to Brendan. look forward to seeing you there! 🎉"
+
+  [[params.section2.features]]
     title = "Apr 9, 2024"
     text = "The schedule has been updated. Please check the schedule page for the latest information. We are looking forward to seeing you at the next meeting! 💙"
 
