@@ -21,12 +21,10 @@ If you wish to join 微信 (WeChat), please scan:
 
 ![WeChat QR Code](/virtsys-meetup/images/WeChat-05-07.jpg)
 
-## Sponsors
+## Sponsor us ☕️
 
-The organizers invested a lot of time and effort to make this meetup possible, including covering the cost of Zoom meetings ($160 / year). 
+The organizers invested a lot of time and effort to make this meetup possible, including covering the cost of Zoom meetings ($160 / year). If you'd like to support, consider buying us a Coffee ☕️! You can also reach out us at splvm2021 at gmail dot com.
 
-If you'd like to support, consider buying us a Coffee ☕️! 
+----
 
-Please reach out to us at splvm2021@gmail.com.
-
-
+![BMC QR Code](/virtsys-meetup/images/bmc_qr.png)
