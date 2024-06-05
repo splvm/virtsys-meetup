@@ -19,7 +19,9 @@ title: "About"
 If you wish to join 微信 (WeChat), please scan:
 
 
-![WeChat QR Code](/virtsys-meetup/images/WeChat-05-22.jpg)
+![WeChat QR Code](/virtsys-meetup/images/WeChat-06-12.jpg)
+
+If the QR Code has expired, please reach out to the organizers on Slack.
 
 ## Sponsor us ☕️
 
