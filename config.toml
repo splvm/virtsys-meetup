@@ -24,6 +24,10 @@ disableHugoGeneratorInject = true
   [params.section2]
   title = "Annoucements"
   [[params.section2.features]]
+    title = "June 17, 2024"
+    text = "I have to push the meeting to next week. Please check the schedule page for the latest information 💙. Take care!"
+
+  [[params.section2.features]]
     title = "May 5, 2024"
     text = "Ed (Dongxu) Huang's talk has been re-scheduled to May 15, 2024. Please check the schedule page for the latest information. We are looking forward to seeing you at the next meeting! 💙"
 
