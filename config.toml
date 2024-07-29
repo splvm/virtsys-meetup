@@ -24,6 +24,10 @@ disableHugoGeneratorInject = true
   [params.section2]
   title = "Annoucements"
   [[params.section2.features]]
+    title = "June 29, 2024"
+    text = "We're thrilled to welcome [Alex Crichton](https://github.com/alexcrichton) core maintainer of Wasmtime, and previously core team of Rust language, contributed to Wasm, Rust's Cargo, `std::fmt`, Rust ThinLTO, Rust concurrency, Rust CI, Rust macros, and has published over 200 crates. Alex is a software engineer at Fermyon, previously at Fastly and Mozilla, graduated from Carnegie Mellon University. He will be giving a talk about WebAssembly + Hypervisor on September 2nd, 2024."
+
+  [[params.section2.features]]
     title = "June 17, 2024"
     text = "I have to push the meeting to next week. Please check the schedule page for the latest information 💙. Take care!"
 
